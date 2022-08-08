@@ -1,13 +1,11 @@
 # plondo
 
-![plondo](imgur.com image replace me!)
+![plondo pcb](https://github.com/pondodev/plondo/blob/main/images/pcb.png?raw=true)
 
-*A short description of the keyboard/project*
 a plaid inspired 4x12 ortholinear keyboard with a rotary encoder and oled panel.
 
 * Keyboard Maintainer: [Daniel Coady](https://github.com/pondodev)
 * Hardware Supported: atmega32a, find the pcb [here](https://github.com/pondodev/plondo)
-* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
