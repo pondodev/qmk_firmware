@@ -1,0 +1,12 @@
+OLED_ENABLE        = yes
+OLED_DRIVER        = SSD1306
+MOUSEKEY_ENABLE    = no
+RGBLIGHT_ENABLE    = no
+LTO_ENABLE         = yes
+CONSOLE_ENABLE     = no
+GRAVE_ESC_ENABLE   = no
+MAGIC_ENABLE       = no
+MUSIC_ENABLE       = no
+VIA_ENABLE         = no
+SPACE_CADET_ENABLE = no
+WPM_ENABLE         = yes
